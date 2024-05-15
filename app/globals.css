@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+
+#employee::-webkit-scrollbar {
+  display: none;
+}
